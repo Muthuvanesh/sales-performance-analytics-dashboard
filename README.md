@@ -142,7 +142,7 @@ You can also upload the notebook and CSV file to Google Colab and run the projec
 
 GitHub: [Muthuvanesh](https://github.com/Muthuvanesh)
 
-LinkedIn: [Muthu Vanesh](https://www.linkedin.com/in/MuthuVanesh)
+LinkedIn: [MuthuVanesh](https://www.linkedin.com/in/MuthuVanesh)
 
 ---
 
