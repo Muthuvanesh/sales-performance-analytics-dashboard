@@ -1,9 +1,10 @@
 # 📊 Sales Performance Analytics Dashboard
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda827c52f?auto=format&fit=crop&w=1400&q=80" alt="Sales Performance Analytics and Data Visualization Dashboard" width="100%" />
+  <img src="./sales-dashboard.png"
+       alt="Sales Performance Analytics Dashboard"
+       width="100%" />
 </div>
-
 ## 📌 Project Overview
 
 The **Sales Performance Analytics Dashboard** is an exploratory data analysis (EDA) project designed to analyze sales data, identify business patterns, and understand performance across product categories, regions, order statuses, and payment methods.
