@@ -1,10 +1,7 @@
 # 📊 Sales Performance Analytics Dashboard
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda827c52f?auto=format&fit=crop&w=1400&q=80"
-       alt="Sales Analytics Dashboard"
-       width="100%" />
-</div>
+  <img src="https://images.unsplash.com/photo-1551288049-bebda827c52f?auto=format&fit=crop&w=1400&q=80" alt="Sales Performance Analytics Dashboard" width="100%" />
 </div>
 
 ## 📌 Project Overview
